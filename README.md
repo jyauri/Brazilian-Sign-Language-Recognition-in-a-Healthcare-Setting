@@ -1,4 +1,4 @@
-Brazilian Sign Language Recognition in Healthcare Center.
+Brazilian Sign Language Recognition in Healthcare Center
 
 In this work, we aim to recognize common lexical signs used by Brazilian deaf into health centers.
 
