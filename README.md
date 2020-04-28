@@ -69,7 +69,7 @@ Adoecer , Agendar , Agora , Agudo , Agulha , Alergia , Amanha , Amigdalites , An
 
 The dataset is packed into Matlab files, easily accessible from other programming languages.
 
-If you are interested in our dataset, please feel free to write us *elias@dca.fee.unicamp.br*.
+If you like to access to our dataset, please feel free to mail to *elias@dca.fee.unicamp.br* or *martino@dca.fee.unicamp.br*.
 
 
 ## How to cite:
