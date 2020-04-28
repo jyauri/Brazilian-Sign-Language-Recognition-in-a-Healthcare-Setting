@@ -1,8 +1,8 @@
 # Brazilian Sign Language Recognition in Healthcare Center
 
-## Objective:
 
 In this researcg work, we aimed to recognize the common lexical signs used by Brazilian deaf into healthcare  centers  based on Kinect v2. Our approach only uses depth images to extract robust hand-crafted features and classified based on DTW (Dynamic Time Warping) and k-NN (k Nearest Neighbor) algorithms.
+
 
 ## Materials and Methods
 
@@ -24,7 +24,36 @@ In this researcg work, we aimed to recognize the common lexical signs used by Br
 
 
 ## Dataset
-As follows, we present the 107 signs both in English and Portuguese.
+
+* We present some samples of the collected signs. As you can see, signs are either one-handed, two-handed, and some has a slight variation between them.
+
+  * Sicken / Adoecer
+    
+    ![](mp4/adoecer.gif)
+  
+  
+  * Depression / Depressao
+    
+    ![](mp4/depressao.gif)
+  
+  
+  * Respiratory infection / Infecao respiratoria
+    
+    ![](mp4/infeccao.gif)
+    
+      
+  * Allergy / Alergia
+    
+    ![](mp4/alergia.gif)
+   
+  * Medical scheduling / Agendar
+    
+    ![](mp4/agendar.gif)
+   
+
+
+* As follows, we present the 107 names of signs, both in English and Portuguese.
+
 
 Signs |
 --------- |
@@ -34,6 +63,13 @@ Sicken, Medical scheduling, Now, Severe, Needle, Allergy, Tomorrow, Tonsillitis,
 Sinais |
 --------- |
 Adoecer , Agendar , Agora , Agudo , Agulha , Alergia , Amanha , Amigdalites , Ano , Ansiedade , Apendicites , Ataque_Cardiaco , Bem , Bronquite , Cabeca , Caxumba , Cirurgia , Comprimido , Consultar , Contusao , Cronico , Curar , Dele , Delirio , Demencia , Dengue , Dente , Depressao , Derrame_Cerebral , Desidratacao , Diabete , Doenca , Doer , Dor_Cabeca , Eletrocardiograma , Ele , Endereco , Enfermagem , Entorser , Envenenar , Estavel , Estetoscopio , Estomago , Eu , Exame_Medico , Febre , Fraturar , Futuro , Gripe , Hemorragia , Hepatite , Hipertensao , Hoje , Hospital , Idade , Inestavel , Infecao_Respiratoria , Injetar , Intoxicacao , Ir , Laceracao , Lesao , Lesao_Faca , Lesao_Pistola , Leve , Mal , Medico , Meu , Morir , Muito , Nao , Nao_Poder , Nao_Querer , Nao_Ter , Nausea , Nome , Ontem , Ouvinte , Passado , Pedra_Rim , Peito , Poder , Pouco , Precisar , Prontuario , Psicose , Pulmao , Queimado , Querer , Raiosx , Receita_Medica , Remedio , Risco , Ruim , Salmonela , Saudavel , Sentir , Seu , Sim , Surdo , Ter , Tontura , Tos , Vacinar , Vir , Voce , Vomito |
+
+
+## Download
+
+The dataset is packed into Matlab files, easily accessible from other programming languages.
+
+If you are interested in our dataset, please feel free to write us *elias@dca.fee.unicamp.br*.
 
 
 ## How to cite:
@@ -52,4 +88,5 @@ publisher = {Springer International Publishing},
 title = {{Brazilian Sign Language Recognition Using Kinect}},
 year = {2016}
 }
+
 
