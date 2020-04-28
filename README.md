@@ -74,9 +74,9 @@ If you like to access to our dataset, please feel free to mail to *elias@dca.fee
 
 ## How to cite:
 
-If your are interested, please read our paper [Brazilian Sign Language Recognition Using Kinect](https://doi.org/10.1007/978-3-319-48881-3_27).
+If you are interested in more technical details, please read our paper [Brazilian Sign Language Recognition Using Kinect](https://doi.org/10.1007/978-3-319-48881-3_27).
 
-And the bibtex entry is:
+And cite as:
 
 @inproceedings{YauriVidalon2016,
 author = {{Yauri Vidal{\'{o}}n}, Jos{\'{e}} El{\'{i}}as and {De Martino}, Jos{\'{e}} Mario},
