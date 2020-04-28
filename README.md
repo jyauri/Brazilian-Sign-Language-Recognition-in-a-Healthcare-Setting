@@ -1,4 +1,4 @@
-# Brazilian Sign Language Recognition in Healthcare Center
+# Brazilian Sign Language Recognition in Healthcare Centers
 
 
 In this researcg work, we aimed to recognize the common lexical signs used by Brazilian deaf into healthcare  centers  based on Kinect v2. Our approach only uses depth images to extract robust hand-crafted features and classified based on DTW (Dynamic Time Warping) and k-NN (k Nearest Neighbor) algorithms.
