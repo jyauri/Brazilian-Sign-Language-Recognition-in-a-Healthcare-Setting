@@ -29,7 +29,7 @@ In this researcg work, we aimed to recognize the common lexical signs used by Br
 
   * Sicken / Adoecer
     
-    ![data](mp4/adoecer1.gif)
+    ![](mp4/adoecer.gif)
   
   
   * Depression / Depressao
