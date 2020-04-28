@@ -74,7 +74,7 @@ If you are interested in our dataset, please feel free to write us *elias@dca.fe
 
 ## How to cite:
 
-If your are interested, please read our [paper](https://doi.org/10.1007/978-3-319-48881-3_27).
+If your are interested, please read our paper [Brazilian Sign Language Recognition Using Kinect](https://doi.org/10.1007/978-3-319-48881-3_27).
 
 And the bibtex entry is:
 
