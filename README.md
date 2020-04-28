@@ -10,7 +10,7 @@ In this researcg work, we aimed to recognize the common lexical signs used by Br
   
   First, we choose 107 medical signs selected from common dialogues in health-care centers.
   
-  Next, signs were recorded using a Kinect v2 sensor which provides color, depth, and skeleton data. The signer perfomed each sign in a stop-motion fashiong six times. 
+  Next, signs were recorded using a Microsoft Kinect v2 sensor which provides color, depth, and skeleton data. The signer perfomed each sign in a stop-motion fashiong six times. 
     
 * Methods:
 
