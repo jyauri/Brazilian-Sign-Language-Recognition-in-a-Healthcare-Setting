@@ -55,14 +55,115 @@ In this researcg work, we aimed to recognize the common lexical signs used by Br
 * As follows, we present the 107 names of signs, both in English and Portuguese.
 
 
-Signs |
---------- |
-Sicken, Medical scheduling, Now, Severe, Needle, Allergy, Tomorrow, Tonsillitis, Year, Anxiety, Appendicitis, Heart attack, Well, Bronchitis, Head, Mumps, Surgery, Pill, Medical consultation, Contusion, Chronic, To heal, His, Delirium,  Insanity, Dengue, Tooth, Depression, Brain stroke, Dehydration, Diabetes, Disease, To ache, Headache, Electrocardiogram, He, Address, Nursing, Sprain, Poisoning, Stable, Stethoscope, Stomach, I, Medical exam, Fever, Fracture, Future, Flu, Bleeding, Hepatitis, Hypertension, Today, Hospital, Age, Unstable, Respiratory infection, Injection, Intoxication, To go, Laceration, Injury, Knife injury, Gun injury, Slight, Hurt, Doctor, My, Die, Very/Too, Do/does Not, To cannot, To want not, To have not, Nausea, Name, Yesterday, Hearing people, Past, Kidney stone, Chest, To can, A few, Need, Clinic history, Psychosis, Lung, Burs, To want, X-rays, Medical prescription, Remedy, Medical risk, Bad,  Salmonella, Healthy, To feel, Your, Yes, Deaf people, To have, Dizziness, Cough, Vaccine, To come, You, Vomit |
-
-
-Sinais |
---------- |
-Adoecer , Agendar , Agora , Agudo , Agulha , Alergia , Amanha , Amigdalites , Ano , Ansiedade , Apendicites , Ataque_Cardiaco , Bem , Bronquite , Cabeca , Caxumba , Cirurgia , Comprimido , Consultar , Contusao , Cronico , Curar , Dele , Delirio , Demencia , Dengue , Dente , Depressao , Derrame_Cerebral , Desidratacao , Diabete , Doenca , Doer , Dor_Cabeca , Eletrocardiograma , Ele , Endereco , Enfermagem , Entorser , Envenenar , Estavel , Estetoscopio , Estomago , Eu , Exame_Medico , Febre , Fraturar , Futuro , Gripe , Hemorragia , Hepatite , Hipertensao , Hoje , Hospital , Idade , Inestavel , Infecao_Respiratoria , Injetar , Intoxicacao , Ir , Laceracao , Lesao , Lesao_Faca , Lesao_Pistola , Leve , Mal , Medico , Meu , Morir , Muito , Nao, Nao_Poder , Nao_Querer , Nao_Ter , Nausea , Nome , Ontem , Ouvinte , Passado , Pedra_Rim , Peito , Poder , Pouco , Precisar , Prontuario , Psicose , Pulmao , Queimado , Querer , Raiosx , Receita_Medica , Remedio , Risco , Ruim , Salmonela , Saudavel , Sentir , Seu , Sim , Surdo , Ter , Tontura , Tos , Vacinar , Vir , Voce , Vomito |
+| N° | Sign | Sinal |
+| -------- | -------- | -------- |
+|	1	|	Sicken	|	Adoecer	|
+|	2	|	Medical_scheduling	|	Agendar	|
+|	3	|	Now	|	Agora	|
+|	4	|	Severe	|	Agudo	|
+|	5	|	Needle	|	Agulha	|
+|	6	|	Allergy	|	Alergia	|
+|	7	|	Tomorrow	|	Amanha	|
+|	8	|	Tonsillitis	|	Amigdalites	|
+|	9	|	Year	|	Ano	|
+|	10	|	Anxiety	|	Ansiedade	|
+|	11	|	Appendicitis	|	Apendicites	|
+|	12	|	Heart_attack	|	Ataque_Cardiaco	|
+|	13	|	Well	|	Bem	|
+|	14	|	Bronchitis	|	Bronquite	|
+|	15	|	Head	|	Cabeca	|
+|	16	|	Mumps	|	Caxumba	|
+|	17	|	Surgery	|	Cirurgia	|
+|	18	|	Pill	|	Comprimido	|
+|	19	|	Medical_consultation	|	Consultar	|
+|	20	|	Contusion	|	Contusao	|
+|	21	|	Chronic	|	Cronico	|
+|	22	|	Toheal	|	Curar	|
+|	23	|	His	|	Dele	|
+|	24	|	Delirium	|	Delirio	|
+|	25	|	Insanity	|	Demencia	|
+|	26	|	Dengue	|	Dengue	|
+|	27	|	Tooth	|	Dente	|
+|	28	|	Depression	|	Depressao	|
+|	29	|	Brain_stroke	|	Derrame_Cerebral	|
+|	30	|	Dehydration	|	Desidratacao	|
+|	31	|	Diabetes	|	Diabete	|
+|	32	|	Disease	|	Doenca	|
+|	33	|	Toache	|	Doer	|
+|	34	|	Headache	|	Dor_Cabeca	|
+|	35	|	Electrocardiogram	|	Eletrocardiograma	|
+|	36	|	He	|	Ele	|
+|	37	|	Address	|	Endereco	|
+|	38	|	Nursing	|	Enfermagem	|
+|	39	|	Sprain	|	Entorser	|
+|	40	|	Poisoning	|	Envenenar	|
+|	41	|	Stable	|	Estavel	|
+|	42	|	Stethoscope	|	Estetoscopio	|
+|	43	|	Stomach	|	Estomago	|
+|	44	|	I	|	Eu	|
+|	45	|	Medical_exam	|	Exame_Medico	|
+|	46	|	Fever	|	Febre	|
+|	47	|	Fracture	|	Fraturar	|
+|	48	|	Future	|	Futuro	|
+|	49	|	Flu	|	Gripe	|
+|	50	|	Bleeding	|	Hemorragia	|
+|	51	|	Hepatitis	|	Hepatite	|
+|	52	|	Hypertension	|	Hipertensao	|
+|	53	|	Today	|	Hoje	|
+|	54	|	Hospital	|	Hospital	|
+|	55	|	Age	|	Idade	|
+|	56	|	Unstable	|	Inestavel	|
+|	57	|	Respiratory_infection	|	Infecao_Respiratoria	|
+|	58	|	Injection	|	Injetar	|
+|	59	|	Intoxication	|	Intoxicacao	|
+|	60	|	To_go	|	Ir	|
+|	61	|	Laceration	|	Laceracao	|
+|	62	|	Injury	|	Lesao	|
+|	63	|	Knife_injury	|	Lesao_Faca	|
+|	64	|	Gun_injury	|	Lesao_Pistola	|
+|	65	|	Slight	|	Leve	|
+|	66	|	Hurt	|	Mal	|
+|	67	|	Doctor	|	Medico	|
+|	68	|	My	|	Meu	|
+|	69	|	Die	|	Morir	|
+|	70	|	Very/Too	|	Muito	|
+|	71	|	Do/Does_Not	|	Nao	|
+|	72	|	To_cannot	|	Nao_Poder	|
+|	73	|	To_want_not	|	Nao_Querer	|
+|	74	|	To_have_not	|	Nao_Ter	|
+|	75	|	Nausea	|	Nausea	|
+|	76	|	Name	|	Nome	|
+|	77	|	Yesterday	|	Ontem	|
+|	78	|	Hearing_people	|	Ouvinte	|
+|	79	|	Past	|	Passado	|
+|	80	|	Kidney_stone	|	Pedra_Rim	|
+|	81	|	Chest	|	Peito	|
+|	82	|	Tocan	|	Poder	|
+|	83	|	Afew	|	Pouco	|
+|	84	|	Need	|	Precisar	|
+|	85	|	Clinical_history	|	Prontuario	|
+|	86	|	Psychosis	|	Psicose	|
+|	87	|	Lung	|	Pulmao	|
+|	88	|	Burs	|	Queimado	|
+|	89	|	To_want	|	Querer	|
+|	90	|	X-rays	|	Raios_X	|
+|	91	|	Medical_prescription	|	Receita_Medica	|
+|	92	|	Remedy	|	Remedio	|
+|	93	|	Medical_risk	|	Risco	|
+|	94	|	Bad	|	Ruim	|
+|	95	|	Salmonella	|	Salmonela	|
+|	96	|	Healthy	|	Saudavel	|
+|	97	|	To_feel	|	Sentir	|
+|	98	|	Your	|	Seu	|
+|	99	|	Yes	|	Sim	|
+|	100	|	Deaf_people	|	Surdo	|
+|	101	|	To_have	|	Ter	|
+|	102	|	Dizziness	|	Tontura	|
+|	103	|	Cough	|	Tos	|
+|	104	|	Vaccine	|	Vacinar	|
+|	105	|	To_come	|	Vir	|
+|	106	|	You	|	Voce	|
+|	107	|	Vomit	|	Vomito	|
 
 
 ## Download
